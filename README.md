@@ -1,2 +1,2 @@
-# ljaxmcx-qq.com
+# ljaxmcx@qq.com
 R_Learning
